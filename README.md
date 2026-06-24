@@ -15,9 +15,9 @@
 
 ## 🎯 What this actually does
 
-You pick a movie. In a couple of seconds, the app shows you **5 similar movies with real posters** — no login, no ratings required, no "people also watched" tracking.
+You pick a movie. In a couple of seconds, the app shows you **5 similar movies with real posters** - no login, no ratings required, no "people also watched" tracking.
 
-How it decides what's "similar": it looks at each movie's **genre, cast, director, and plot keywords**, turns that into numbers, and finds the 5 movies whose numbers are closest to the one you picked. This approach is called **content-based filtering** — it works from day one, even for a brand-new or obscure movie, because it never needs anyone's viewing history to function.
+How it decides what's "similar": it looks at each movie's **genre, cast, director, and plot keywords**, turns that into numbers, and finds the 5 movies whose numbers are closest to the one you picked. This approach is called **content-based filtering** - it works from day one, even for a brand-new or obscure movie, because it never needs anyone's viewing history to function.
 
 <br/>
 
