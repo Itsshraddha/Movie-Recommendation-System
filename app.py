@@ -83,7 +83,7 @@ Discover movies similar to your favorite in seconds
 # main function
 @st.cache_data
 def fetch_poster(movie_id, movie_name):
-    api_key = "6a21f6dd87b92f8d02c45a9f9d44f631"
+    api_key = "Your_API_Key"
 
     try:
         # Step 1: Try with movie_id
