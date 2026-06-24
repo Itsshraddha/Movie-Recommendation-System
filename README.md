@@ -285,29 +285,18 @@ The app opens automatically at `http://localhost:8501` 🎬
 <table>
 <tr>
 <td align="center" width="33%">
-<img src="assets/screenshot-1.png" width="100%"/>
-<br/><sub><b>1️⃣ Home screen</b></sub>
+<img src="assests/MovieSC2.png" width="100%"/>
 </td>
 <td align="center" width="33%">
-<img src="assets/screenshot-2.png" width="100%"/>
-<br/><sub><b>2️⃣ Searching for a movie</b></sub>
-</td>
-<td align="center" width="33%">
-<img src="assets/screenshot-3.png" width="100%"/>
-<br/><sub><b>3️⃣ Recommendations shown</b></sub>
+<img src="assests/MovieSC5.png" width="100%"/>
 </td>
 </tr>
-<tr>
 <td align="center" width="33%">
-<img src="assets/screenshot-4.png" width="100%"/>
-<br/><sub><b>4️⃣ Close-up of a result</b></sub>
+<img src="assests/MovieSC4.png" width="100%"/>
 </td>
-<td align="center" width="33%">
-<img src="assets/screenshot-5.png" width="100%"/>
-<br/><sub><b>5️⃣ Full app view</b></sub>
+<td  align="center" width="33%">
+<img src="assests/MovieSC1.png" width="100%"/>
 </td>
-<td width="33%"></td>
-</tr>
 </table>
 
 </div>
